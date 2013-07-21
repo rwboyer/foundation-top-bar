@@ -6696,3 +6696,7 @@ a.th {
     background: rgba(34, 34, 34, 0);
   }
 }
+/* line 55, ../sass/app.scss */
+.top-bar img {
+  max-height: 100%;
+}
